@@ -282,3 +282,10 @@ movie-recommendation-system/
 - [Kaggle TMDB Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) for training data
 - Streamlit team for the amazing web framework
 
+## Output Example -1 
+<img width="1016" height="642" alt="image" src="https://github.com/user-attachments/assets/4eb62bfd-995b-4996-9dbc-1e2db51f6d07" />
+
+## Output Example - 2
+<img width="1005" height="663" alt="image" src="https://github.com/user-attachments/assets/4f650d95-e348-401a-b62b-a044f0ac8d09" />
+
+
