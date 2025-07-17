@@ -1,4 +1,4 @@
-# Due to the large size of the calculate_similarity.pkl , I have not uploaded the file. Please mail me at abhinavk806@gmail.com for the file
+Due to the large size of the calculate_similarity.pkl , I have not uploaded the file. Please mail me at abhinavk806@gmail.com for the file
 
 # Movie Recommendation System
 
