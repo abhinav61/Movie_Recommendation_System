@@ -1,3 +1,5 @@
+# Due to the large size of the calculate_similarity.pkl , I have not uploaded the file. Please mail me at abhinavk806@gmail.com for the file
+
 # Movie Recommendation System
 
 A content-based movie recommendation system built with Python and Streamlit that suggests movies based on user preferences using machine learning techniques.
@@ -69,7 +71,7 @@ Ensure you have the following files/models in your project directory:
 ## Data Processing Steps
 
 ### 1. Data Collection
-- Use TMDB 5000 Movie Dataset containing:
+- Use TMDB 5000 Movie Dataset containing from kaggle:
   - Movie titles, genres, cast, crew
   - Keywords, overview, and metadata
 
